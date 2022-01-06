@@ -1,0 +1,13 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-family: "EB Garamond", serif;
+  font-size: 50px;
+}
+.heading-color {
+  color: rgba(25, 99, 236, 0.849);
+}
+h4 {
+  color: darkgrey;
+}
