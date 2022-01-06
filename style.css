@@ -6,8 +6,29 @@ h1 {
   font-size: 50px;
 }
 .heading-color {
-  color: rgba(25, 99, 236, 0.849);
+  color: rgb(216, 71, 168);
+}
+h3 {
+  font-size: 15px;
 }
 h4 {
-  color: darkgrey;
+  color: rgb(136, 132, 134);
+}
+section {
+  display: flex;
+}
+.width-measurement {
+  width: 50%;
+  padding-left: 5%;
+}
+.width-measurement img {
+  width: 80%;
+}
+.link-button {
+  text-decoration: none;
+  background-color: rgb(214, 20, 127);
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 800;
 }
