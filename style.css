@@ -69,3 +69,29 @@ h4 {
   margin-left: 2%;
   margin-right: 2%;
 }
+.background-feature {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+}
+.image-set {
+  width: 80%;
+  padding-left: 15%;
+}
+.para-set {
+  text-align: left;
+  padding-left: %5;
+}
+h3 {
+  font-size: 20px;
+  text-align: left;
+  font-weight: bolder;
+}
+.background-item {
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+}
+.image-setup {
+  width: 80%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
