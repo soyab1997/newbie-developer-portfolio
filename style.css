@@ -89,9 +89,14 @@ h3 {
 .background-item {
   background-image: url(images/shape-1.png);
   background-repeat: no-repeat;
+  background-position: right;
+  background-size: 80px;
 }
 .image-setup {
   width: 80%;
   padding-left: 5%;
   padding-right: 5%;
+}
+footer p {
+  text-align: center;
 }
